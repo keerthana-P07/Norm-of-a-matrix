@@ -66,15 +66,20 @@ print("{:.2f}".format(result))
 
 ### 1-Norm of a Matrix
 
+![Infinity Norm Output](images/Screenshot-3.png)
+
 ![1-Norm Output](images/Screenshot-1.png)
 
 ### 2-Norm of a Matrix
 
-![2-Norm Output](images/Screenshot-2.png)
+![1-Norm Output](images/Screenshot-1.png)
+
 
 ### Infinity Norm of a Matrix
 
-![Infinity Norm Output](images/Screenshot-3.png)
+![2-Norm Output](images/Screenshot-2.png)
+
+
 
 
 
