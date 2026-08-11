@@ -74,7 +74,7 @@ print("{:.2f}".format(result))
 ![1-Norm Output](images/Screenshot-1.png)
 
 
-### Infinity Norm of a Matrix
+### 3-Infinity Norm of a Matrix
 
 ![2-Norm Output](images/Screenshot-2.png)
 
