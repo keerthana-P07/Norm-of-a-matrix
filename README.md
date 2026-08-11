@@ -63,14 +63,17 @@ result = np.linalg.norm(matrix,np.inf)
 print("{:.2f}".format(result))
 ```
 ## Output:
-1-Norm of a Matrix
+1-Norm of a Matrix:
+acer/Downloads/Screenshot 2026-08-11 125903.png
 
-acer/OneDrive/Pictures/Screenshots/Screenshot 2026-08-11 124511.png
 
-2-Norm of a Matrix
-acer/OneDrive/Pictures/Screenshots/Screenshot 2026-08-11 124550.png
-Infinity Norm of a Matrix
-acer/OneDrive/Pictures/Screenshots/Screenshot 2026-08-11 124620.png
+2-Norm of a Matrix:
+
+
+
+Infinity Norm of a Matrix:
+
+
 
 
 ## Result
