@@ -68,7 +68,6 @@ print("{:.2f}".format(result))
 
 ![Infinity Norm Output](images/Screenshot-3.png)
 
-![1-Norm Output](images/Screenshot-1.png)
 
 ### 2-Norm of a Matrix
 
