@@ -64,7 +64,8 @@ print("{:.2f}".format(result))
 ```
 ## Output:
 1-Norm of a Matrix:
-acer/Downloads/Screenshot 2026-08-11 125903.png
+acer/Norm-of-a-matrix/image/Screenshot 2026-08-11 124550.png
+
 
 
 2-Norm of a Matrix:
@@ -72,6 +73,7 @@ acer/Downloads/Screenshot 2026-08-11 125903.png
 
 
 Infinity Norm of a Matrix:
+
 
 
 
